@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,3 @@ Things you may want to cover:
 * ...
 =======
 # Dhingana17
->>>>>>> 48c3d4201b6c4751229db76f74e0241ac1155a8e
