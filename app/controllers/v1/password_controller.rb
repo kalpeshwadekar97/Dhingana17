@@ -1,6 +1,6 @@
 class V1::PasswordController < ApiController
   before_action :initialize_class_name
-  skip_before_action :authenticate_user, only: [:create, :new]
+  skip_before_action :authenticate_user, only: [:create, :new], raise: false
   include PasswordModule
 
   private
