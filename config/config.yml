@@ -1,0 +1,68 @@
+error :
+  01 : "No such route."
+  10 : "Authentication Failed"
+  11 : "Authentication Failed. Invalid Email / Password."
+  12 : "Only content type application/json is accepted."
+  13 : "API access not granted"
+  14 : "Email can't be Delivered"
+  15 : "Unprocessable Entity"
+  16 : "Data too big"
+  18 : "Booking not found"
+  19 : "Email not allowed to create corporates"
+  20 : "Corporate not associated with the sales agent"
+  21 : "Resource not found"
+  22 : "Insufficient request params"
+  23 : "Incorrect Transaction params"
+  24 : "Invalid OTP"
+  26 : "No User found"
+  27 : "Incorrect hash params"
+  28 : "Enter correct password"
+  29 : "Insufficient privilege"
+  32 : "Please enter a valid pincode"
+  33 : "Email not found"
+  34 : "Invalid Collection"
+  35 : "Invalid Category"
+  36 : "Invalid Voucher"
+  37 : "Remove cashback to redeem gift voucher."
+  38 : "Remove discount to redeem gift voucher."
+  39 : "Old password does not match."
+  41 : "Email not registered yet."
+  42 : "Link has expired. Contact Customer Care to regenrate."
+  43 : "Email ID already exist."
+  44 : "Not able to update images."
+  45 : "This mobile number is already registered."
+  46 : "You have exceeded the maximum number of attempts."
+  47 : "You have entered wrong OTP"
+  48 : "Mobile number not registered."
+  49 : "Invalid details. Please try again."
+  50 : "Invalid Email"
+
+session_expiry:
+  desktop: 604800
+  mobile_site: 604800
+  android: 2592000
+  ios: 604800
+  default: 1
+  bank_refund_form: 604800
+
+device:
+  desktop: 0
+  mobile_site: 1
+  android: 2
+  ios: 3
+
+image_domain: "https://images.dhingana.com/"
+
+api_client:
+  fd680a3e3374f85a11dffe3414f7622f:
+    device: "android"
+    app_secret: "a3280b3f-b73f-48ad-aedc-55f93eb98db7"
+  1f9e3f71f7c5e522906364c36cce077d:
+    device: "desktop"
+    app_secret: "3da2b798-5660-4d4a-baed-56e0261debff"
+  4ce550a7420cc43e7be3a2f563a18a8e:
+    device: "mobile_site"
+    app_secret: "8b558dd8-8d9e-49f1-9800-7610a38ccc3d"
+  f0de59ff91202f4318f8f84d109be4ae:
+    device: "ios"
+    app_secret: "64c9500b-85ce-42fa-ae8f-502fae9b3bdc"
