@@ -16,17 +16,6 @@ module AuthenticationModule
     
   end
 
-  def generate_otp
-    @user = current_user || @user_class.find_by(mobile: authentication_params[:mobile])
-    user_exists = @user.check_user_exists(authentication_params) if @user.present?
-    otp = @user.generate_otp(authentication_params) if @user.present? and user_exists
-    if @user.present? and @user.errors.blank? and otp 
-        render json: {message: "OTP Sent!"}, status: :ok
-    else
-       @user.present? ?  render_api_error(10, 400, "error", @user.try(:errors)) : render_api_error(48, 401)         
-    end
-  end  
-
   def destroy
     if current_user.destroy_session(@token, @device)
       render json: {message: "Sign Out successful"}, status: :ok

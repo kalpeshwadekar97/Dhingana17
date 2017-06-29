@@ -7,7 +7,6 @@ Rails.application.routes.draw do
     get 'users' => 'users#show'
 
     delete 'authentication' => 'authentication#destroy'
-    post 'authentication/generate_otp' =>'authentication#generate_otp'
     resources :authentication, only: [:create, :update]
     
     namespace :admin do
