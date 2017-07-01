@@ -8,7 +8,7 @@ Rails.application.routes.draw do
 
     delete 'authentication' => 'authentication#destroy'
     resources :authentication, only: [:create, :update]
-    
+    resources :statics    
     namespace :admin do
 
       resources :authentication, only: [:create, :update]
