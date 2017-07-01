@@ -8,4 +8,8 @@ class Static
       {id: 4,url: 'http://lorempixel.com/400/200/'}
     ]
   end
+
+  def self.faq
+    STATIC_CONFIG["faq"]
+  end
 end
