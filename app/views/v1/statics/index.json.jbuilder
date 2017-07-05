@@ -1,5 +1,5 @@
 if @fields.include? "home"
-  json.home Static.banner_images
+  json.home Static.home
 end
 
 if @fields.include? "faq"

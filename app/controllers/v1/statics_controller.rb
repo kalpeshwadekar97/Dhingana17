@@ -1,10 +1,17 @@
 class V1::StaticsController < ApiController
   before_action :set_fields, only: [:index]
 
-  # GET /v1/statics
-  # GET /v1/statics.json
   def index
+  end
 
+  def roads
+    result = Static.roads
+    render json: result, status: :ok
+  end
+
+  def places
+    result = Static.places
+    render json: result, status: :ok
   end
 
   def set_fields
