@@ -1,73 +1,119 @@
-faq: [{"question": "When can I make an advance booking on the ride?",
-  "answer": "Applications received before the(day &Date)before the ride will be sent out by post. Bookings received between the(Day) and midday on the(End  Day)before the ride (when online booking closes) will be taken to the administration tent at the Start for collection."},
-{"question": "Can I change a rider on my team?",
-  "answer": "Yes - please contact us on enquiries@(Website) with details"},
+faq: [
+  {"question": "When can I make an advance booking on the ride?",
+    "answer": "Applications received before the(day &Date)before the ride will be sent out by post. Bookings received between the(Day) and midday on the(End  Day)before the ride (when online booking closes) will be taken to the administration tent at the Start for collection."},
+  {"question": "Can I change a rider on my team?",
+    "answer": "Yes - please contact us on enquiries@(Website) with details"},
 
-{"question": "Can I register on the day of the ride?",
-  "answer": "No, however the registration and entry is on a limited basis, you must register by the given period of registration. "},
+  {"question": "Can I register on the day of the ride?",
+    "answer": "No, however the registration and entry is on a limited basis, you must register by the given period of registration. "},
 
-{"question": "Can I add myself / others to an already registered team?",
-  "answer": "Yes. Anyone can add themselves to a pre-registered team if it was originally registered as ‘public’. "},
+  {"question": "Can I add myself / others to an already registered team?",
+    "answer": "Yes. Anyone can add themselves to a pre-registered team if it was originally registered as ‘public’. "},
 
-{"question": "What happens if I have a medical problem on the ride?",
-  "answer": "All rides are covered by teams of qualified first-aiders - typically either (First Aiders Name or Doctor Incharge). If you have an accident or feel unwell, or witness an accident or rider experiencing medical difficulties, simply call the emergency number shown on the route map given out on the day and we'll direct a first-aider / ambulance to where you are. In the event of further medical assistance being needed, riders will be taken to the nearest available A&E department, as appropriate. NOTE: Riders Requiring Regular Medication Should Bring Their Medicines With Them. If You Have Any Doubts About Your Fitness Or Ability To Complete The Ride, Please Seek Medical Advice In Advance."},
+  {"question": "What happens if I have a medical problem on the ride?",
+    "answer": "All rides are covered by teams of qualified first-aiders - typically either (First Aiders Name or Doctor Incharge). If you have an accident or feel unwell, or witness an accident or rider experiencing medical difficulties, simply call the emergency number shown on the route map given out on the day and we'll direct a first-aider / ambulance to where you are. In the event of further medical assistance being needed, riders will be taken to the nearest available A&E department, as appropriate. NOTE: Riders Requiring Regular Medication Should Bring Their Medicines With Them. If You Have Any Doubts About Your Fitness Or Ability To Complete The Ride, Please Seek Medical Advice In Advance."},
 
-{"question": "If I have a mechanical problem on a ride?",
-  "answer": "To Deal With Simple Punctures, We Advise That All Riders Bring Along A Puncture Repair Kit And Pump. If you need further help, we provide a number of mechanics - either mobile or static - to help with any problems. Just call the emergency number shown on the route map given out on the day and we'll either direct a mobile mechanic to where you are or a pick up vehicle to relay you and your bike to the nearest static mechanic (typically situated at refreshment stops). Most problems with brakes, tyres, pedals and chains can be dealt with at the roadside. The service is a charge may be made for any replacement parts needed. If your problem cannot be resolved by the mechanic, you and your bike will be relayed either to the start or finish point, as appropriate."},
+  {"question": "If I have a mechanical problem on a ride?",
+    "answer": "To Deal With Simple Punctures, We Advise That All Riders Bring Along A Puncture Repair Kit And Pump. If you need further help, we provide a number of mechanics - either mobile or static - to help with any problems. Just call the emergency number shown on the route map given out on the day and we'll either direct a mobile mechanic to where you are or a pick up vehicle to relay you and your bike to the nearest static mechanic (typically situated at refreshment stops). Most problems with brakes, tyres, pedals and chains can be dealt with at the roadside. The service is a charge may be made for any replacement parts needed. If your problem cannot be resolved by the mechanic, you and your bike will be relayed either to the start or finish point, as appropriate."},
 
-{"question": "I just booked on a ride and paid online - how can I be sure my registration was successful?",
-  "answer": "On successful purchase of a place on a ride, riders receive a confirmation email from (Email id), who take payments on our behalf. The email from(email  id)will contain a unique 3/5 digit transaction code ('xxx-xxxxx') which should be quoted on any enquiries."},
+  {"question": "I just booked on a ride and paid online - how can I be sure my registration was successful?",
+    "answer": "On successful purchase of a place on a ride, riders receive a confirmation email from (Email id), who take payments on our behalf. The email from(email  id)will contain a unique 3/5 digit transaction code ('xxx-xxxxx') which should be quoted on any enquiries."},
 
-{"question": "What happens if I want to give up from the ride?",
-  "answer": "Riders who unable to complete the ride, for whatever reason, can call the emergency number shown on the route map given out on the day and we'll direct a pick up vehicle to relay you and your bike to either the start or finish, as appropriate."},
+  {"question": "What happens if I want to give up from the ride?",
+    "answer": "Riders who unable to complete the ride, for whatever reason, can call the emergency number shown on the route map given out on the day and we'll direct a pick up vehicle to relay you and your bike to either the start or finish, as appropriate."},
 
-{"question": "My entry pack is missing my ID/entry card?",
-  "answer": "In this case you can pick up a Duplicate one from our administration tent at the start of the ride which may charge you. "},
+  {"question": "My entry pack is missing my ID/entry card?",
+    "answer": "In this case you can pick up a Duplicate one from our administration tent at the start of the ride which may charge you. "},
 
-{"question": ".Do I have to raise a minimum amount of sponsorship?",
-  "answer": "The rides raise money for different charities who rely on the sponsor money you raise, so we encourage all riders to raise sponsorship and a sponsor form will be sent with your registration pack. There isn't a minimum amount of sponsorship on any of our rides and all funds raised are gratefully received by the charities concerned. Please make sure that funds raised are returned to the charity, with cheques made out to them - the address will be shown on the sponsor form."},
+  {"question": ".Do I have to raise a minimum amount of sponsorship?",
+    "answer": "The rides raise money for different charities who rely on the sponsor money you raise, so we encourage all riders to raise sponsorship and a sponsor form will be sent with your registration pack. There isn't a minimum amount of sponsorship on any of our rides and all funds raised are gratefully received by the charities concerned. Please make sure that funds raised are returned to the charity, with cheques made out to them - the address will be shown on the sponsor form."},
 
-{"question": ".Do I have to wear a Bike hetlmet?",
-  "answer": "Bike Events strongly recommends that all riders wear a helmet. There is discussion about the use of Bike helmets and the wearing of helmets is mandatory in law. However, we do advise all riders to wear one and will have helmets at the start of each event."},
+  {"question": ".Do I have to wear a Bike hetlmet?",
+    "answer": "Bike Events strongly recommends that all riders wear a helmet. There is discussion about the use of Bike helmets and the wearing of helmets is mandatory in law. However, we do advise all riders to wear one and will have helmets at the start of each event."},
 
-{"question": ".How long will my registration pack take to arrive?",
-  "answer": "We try to post out registration packs within 2 weeks, although please allow up to 28 days during busy periods. Registration packs for earlier rides are prioritized. Late entries purchased on the Thursday or Friday before an event will be available to pick up from the administration tent at the start of the ride."},
+  {"question": ".How long will my registration pack take to arrive?",
+    "answer": "We try to post out registration packs within 2 weeks, although please allow up to 28 days during busy periods. Registration packs for earlier rides are prioritized. Late entries purchased on the Thursday or Friday before an event will be available to pick up from the administration tent at the start of the ride."},
 
-{"question": ".Can I transfer my booking from one ride to another?",
-  "answer": "Sorry, registrations to another ride are non transferrable but you can find another person to ride in your place if you email us with their and your details."},
+  {"question": ".Can I transfer my booking from one ride to another?",
+    "answer": "Sorry, registrations to another ride are non transferrable but you can find another person to ride in your place if you email us with their and your details."},
 
-{"question": ".Can we put up a tent for our team at the finish?",
-  "answer": "This will vary with each event due to space and access, please contact us using teams@(website) to discuss options"},
+  {"question": ".Can we put up a tent for our team at the finish?",
+    "answer": "This will vary with each event due to space and access, please contact us using teams@(website) to discuss options"},
 
-{"question": ".I can’t find my ticket - what should I do?",
-  "answer": "If you have pre-booked tickets with us please bring along the confirmation email sent when you registered. If you can't find that, we have a separate record of all bookings. "},
+  {"question": ".I can’t find my ticket - what should I do?",
+    "answer": "If you have pre-booked tickets with us please bring along the confirmation email sent when you registered. If you can't find that, we have a separate record of all bookings. "},
 
-{"question": ".Can I change my start time to ride with a friend?",
-  "answer": "The start times are a guide only – you do not need to inform us if you wish to change your start time"},
+  {"question": ".Can I change my start time to ride with a friend?",
+    "answer": "The start times are a guide only – you do not need to inform us if you wish to change your start time"},
 
-{"question": ".Is a copy of the route map available before the ride?",
-  "answer": "GPS maps of the routes are available for download after successfully registering on each individual ride. MAKE SURE YOU HAVE CREATED AN USER ACCOUNT DURING THE REGISTRATION PROCEDURE and then login to your My Bike Events account area (link in grey menu bar at the top of the page) using the email address and password entered during registration. You'll find a link to the GPS file in the menu on the left of the page. There will also be a printed route map - showing rest stop locations and support service contact details - available on the day of the ride."},
+  {"question": ".Is a copy of the route map available before the ride?",
+    "answer": "GPS maps of the routes are available for download after successfully registering on each individual ride. MAKE SURE YOU HAVE CREATED AN USER ACCOUNT DURING THE REGISTRATION PROCEDURE and then login to your My Bike Events account area (link in grey menu bar at the top of the page) using the email address and password entered during registration. You'll find a link to the GPS file in the menu on the left of the page. There will also be a printed route map - showing rest stop locations and support service contact details - available on the day of the ride."},
 
-{"question": ".Are all your rides on road?",
-  "answer": "All our rides are on road unless otherwise stated - please check individual ride pages on the website for details (under 'Other Info')."},
+  {"question": ".Are all your rides on road?",
+    "answer": "All our rides are on road unless otherwise stated - please check individual ride pages on the website for details (under 'Other Info')."},
 
-{"question": ".I signed up for the 100 mile ride but want to change to the 50 (and vice-versa)?",
-  "answer": "No problem - please contact us on enquiries@bike-events.com to arrange this."},
+  {"question": ".I signed up for the 100 mile ride but want to change to the 50 (and vice-versa)?",
+    "answer": "No problem - please contact us on enquiries@bike-events.com to arrange this."},
 
-{"question": ".Can I bring a child in their bicycle child seat / using a trailer bike on the ride?",
-  "answer": "In general, we do not allow the carriage of small children using child seats or on 'tag-along' type trailer bikes, although they are welcome on the shorter routes of the GR8 Escape, New Forest and London to Windsor rides. This is due partly to safety considerations: the possible dangers posed by vehicular traffic (our rides always taking place on open roads) or by other participant cyclists (the possibility of collisions between riders being increased the more riders there are in a given space). In addition, weather conditions on the day may be unsuitable for the carriage of a small child for extended periods."},
+  {"question": ".Can I bring a child in their bicycle child seat / using a trailer bike on the ride?",
+    "answer": "In general, we do not allow the carriage of small children using child seats or on 'tag-along' type trailer bikes, although they are welcome on the shorter routes of the GR8 Escape, New Forest and London to Windsor rides. This is due partly to safety considerations: the possible dangers posed by vehicular traffic (our rides always taking place on open roads) or by other participant cyclists (the possibility of collisions between riders being increased the more riders there are in a given space). In addition, weather conditions on the day may be unsuitable for the carriage of a small child for extended periods."},
 
-{"question": ".Can I bring my dog in my bike basket?",
-  "answer": "No. The carriage of, or accompaniment by, dogs or any other animal is not allowed on any ride."},
+  {"question": ".Can I bring my dog in my bike basket?",
+    "answer": "No. The carriage of, or accompaniment by, dogs or any other animal is not allowed on any ride."},
 
-{"question": ".Can I get a refund on my entry fee?",
-  "answer": "Entry fees are refunded only in the event of illness (minus a 25% administration fee). In this event, please return your registration pack with a covering letter. Alternatively, find someone to replace you, but make sure you supply Bike Events with their details. Refunds are not available after the event has taken place."},
+  {"question": ".Can I get a refund on my entry fee?",
+    "answer": "Entry fees are refunded only in the event of illness (minus a 25% administration fee). In this event, please return your registration pack with a covering letter. Alternatively, find someone to replace you, but make sure you supply Bike Events with their details. Refunds are not available after the event has taken place."},
 
-{"question": ".Is there a GPS map of the route available?",
-  "answer": "Yes. Once you've registered for a ride (and if you've CREATED AN ACCOUNT during the registration process) you can log into your My Bike Events account and download a GPX file of the route. As there are now a wide variety of GPS units used by cyclists, you will have to convert it to a format appropriate to your particular unit (tcx, kml, etc.). To convert it, navigate to www.bikehike.co.uk and to the COURSE CREATOR page (http://www.bikehike.co.uk/mapview.php). Choose 'Load Route', browse for your downloaded GPX file then upload it. Select the correct format for your unit. Once converted, you can download the new version and transfer it to your GPS unit. If you are encountering any problems with the GPS file, please send your query to: gpx@bike-events.com RIDERS SHOULD NOT RELY EXCLUSIVELY ON GPS MAPS ON THE DAY AND MUST PAY ATTENTION TO THE ROAD, TO DIRECTIONAL AND CAUTIONARY SIGNAGE DISPLAYED ALONG THE ROUTE, AND TO ADVICE FROM RIDE MARSHALS"},
+  {"question": ".Is there a GPS map of the route available?",
+    "answer": "Yes. Once you've registered for a ride (and if you've CREATED AN ACCOUNT during the registration process) you can log into your My Bike Events account and download a GPX file of the route. As there are now a wide variety of GPS units used by cyclists, you will have to convert it to a format appropriate to your particular unit (tcx, kml, etc.). To convert it, navigate to www.bikehike.co.uk and to the COURSE CREATOR page (http://www.bikehike.co.uk/mapview.php). Choose 'Load Route', browse for your downloaded GPX file then upload it. Select the correct format for your unit.
+    Once converted, you can download the new version and transfer it to your GPS unit. If you are encountering any problems with the GPS file, please send your query to: gpx@bike-events.com RIDERS SHOULD NOT RELY EXCLUSIVELY ON GPS MAPS ON THE DAY AND MUST PAY ATTENTION TO THE ROAD, TO DIRECTIONAL AND CAUTIONARY SIGNAGE DISPLAYED ALONG THE ROUTE, AND TO ADVICE FROM RIDE MARSHALS"},
 
-{"question": ".Can I use my  sports bike on a Bike Events ride?",
-  "answer": "Our rides are non-competitive mass-participation events, often with a fundraising, charitable purpose. Riders of widely varying ages and abilities take part - from the occasional, sometimes inexperienced, through to the regular, proficient club-bikers. They are not triathlons, neither are they timed events. For this reason, riders are PERMITTED. "},
+  {"question": ".Can I use my  sports bike on a Bike Events ride?",
+    "answer": "Our rides are non-competitive mass-participation events, often with a fundraising, charitable purpose. Riders of widely varying ages and abilities take part - from the occasional, sometimes inexperienced, through to the regular, proficient club-bikers. They are not triathlons, neither are they timed events. For this reason, riders are PERMITTED. "},
 
-{"question": ".Can i phone?",
+  {"question": ".Can i phone?",
   "answer": "yes, (mob number)"}]
+
+roads: [{id: 1,
+        url: "http://lorempixel.com/400/400/",
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      { id: 2,
+        url: "http://lorempixel.com/400/400/",
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      { id: 3,
+        url: "http://lorempixel.com/400/400/",
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      { id: 4,
+        url: "http://lorempixel.com/400/400/",
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      }]
+
+places: [{id: 1,
+        title: "Spiritual Places",
+        image_url: "http://lorempixel.com/400/400/",
+        description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
+                      Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
+                      Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+      },
+      { id: 2,
+        title: "Wildlife & Bird Sanctuaries",
+        image_url: "http://lorempixel.com/400/400/",
+        description: "Sanctuaries, are naturally occurring Heaven on Earth, such as an island, that provides protection for species from hunting, predation or competition.These are protected area, a geographic territory within which wildlife is protected. The Indian Forest Department and Wildlife Service defines a Wildlife and Bird Sanctuaries. 
+                      On these tour and trips, here are some heavenly touched Sanctuaries which can amaze you with beauty, Karnala Bird Sanctuary, Phansad Wildlife Sanctuary. There are some biodiversity natural gardens and fish farm in the atmospheric surrounding which can flourish you frame of mind into refreshing deeds."
+      },
+      { id: 3,
+        title: "Beaches",
+        image_url: "http://lorempixel.com/400/400/",
+        description: "Beaches have a similar gesture of washing away sins. It is believed that a dip in the waters of  these Beaches washes away all the sins in ones life.
+                      These tertiary sedimentary formation cliffs are a unique geological feature on the otherwise Shrivardhan coast, and is known among geologists as Konkan a geological monument as declared by the Geological Survey of India. There are numerous water spouts and spas on the sides of these cliffs. So here are some beaches, The Alibaug, Varsoli, Nagao, Kashid and many more dams. These beaches are haven for sun-bathing and swimming. The evening views of the sunset are worth lingering over."
+      },
+      { id: 4,
+        title: "Historical Places",
+        image_url: "http://lorempixel.com/400/400/",
+        description: "Konkan also know as kokan  is situated in the western coastline region of India. Its full of famous sculptures, status, Ghats and historical places. The ancient Saptakonkana is a slightly larger region. 
+                      According to the Sahyadrikhanda of the Skanda Purana, Parashurama shot his arrow into the sea and commanded the Sea God to recede up to the point where his arrow landed. The new piece of land thus recovered came to be known as Sapta-Konkana, meaning 'piece of earth', 'corner of earth', or 'piece of corner', derived from Sanskrit words: koṇa (कोण, corner) + kaṇa (कण, piece).
+                      Konkan extends throughout the western coasts of Maharashtra, Goa and Karnataka.It is bounded by the Western Ghats (also known as Sahyadri) in the east, the Arabian Sea in the west, the Mayura River in the north and the Gangavalli River in the south. Due to which many of the historical places are seen here such as Karnala Fort, Revdanada Fort, Korlai Fort. As the konkan ecosystem is atmospheric natural and amazing so do visit and enjoy the livings of natural beauty of coastal and konkan region."
+      }]
