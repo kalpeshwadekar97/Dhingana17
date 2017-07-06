@@ -12,6 +12,7 @@ Rails.application.routes.draw do
     delete 'authentication' => 'authentication#destroy'
     resources :authentication, only: [:create, :update]
     resources :statics
+    get 'events/latest' => 'events#latest'
     resources :events, only: [:show, :index]
     namespace :admin do
 
