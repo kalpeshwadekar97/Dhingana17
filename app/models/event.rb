@@ -9,4 +9,11 @@ class Event < ActiveRecord::Base
       { id: 4, url:'http://lorempixel.com/640/480/'}
     ]
   end
+
+  def can_register
+    details = {}
+    details['register'] = ( self.status == "comming soon" || self.status == "ongoing" ) ? true : false
+    details['button_title'] =  details['register'] ? "Register" : "House Full"
+    details
+  end
 end

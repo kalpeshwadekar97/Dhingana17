@@ -8,7 +8,12 @@ class V1::EventsController < ApiController
     @events = @events.all.reverse
   end
 
-  def show  
+  def show
+  end
+
+  def latest
+    @event = Event.last
+    render :show, status: :ok 
   end
 
   private
