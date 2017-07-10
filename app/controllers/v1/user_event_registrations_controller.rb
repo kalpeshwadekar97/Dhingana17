@@ -1,4 +1,4 @@
-class V1::UserEventRegistrationsController < V1::ApiController
+class V1::UserEventRegistrationsController < ApiController
   before_action :authenticate_user
   before_action :set_user_event_registration, only: [:show, :update, :destroy]
   before_action :set_fields, only: [:index, :show]
