@@ -14,6 +14,7 @@ Rails.application.routes.draw do
     resources :statics
     get 'events/latest' => 'events#latest'
     resources :events, only: [:show, :index]
+    resources :user_event_registrations, except: [:new, :edit]
     namespace :admin do
 
       resources :authentication, only: [:create, :update]
@@ -21,6 +22,7 @@ Rails.application.routes.draw do
       resources :admin_users
       resources :events, except: [:new, :edit]
       resources :users, except: [:new, :edit]
+      resources :user_event_registrations
     end
   end
 end
