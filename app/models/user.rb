@@ -5,7 +5,7 @@ class User < ActiveRecord::Base
   include Authentication
   include UserObserver
   #relations
-  has_many :addresses
+  has_many :user_event_registrations
   has_one :admin_user, foreign_key: :email, primary_key: :email
   #has_many :user_feedback
   #validation

@@ -13,10 +13,6 @@ class V1::UserEventRegistrationsController < ApiController
   end
   
   def create
-    key = "order:#{current_user.id}"
-    return render_api_error(22,400,'error', "registration in progress") if $redis.get(key).present?
-    $redis.set(key, "active") 
-    $redis.expire(key, 30)
     @user_event_registration = UserEventRegistration.new(user_event_registration_params)
     if @user_event_registration.save
       render :show, status: :created

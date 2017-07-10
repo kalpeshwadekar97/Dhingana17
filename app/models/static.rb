@@ -19,10 +19,23 @@ class Static
   end
 
   def self.roads
-    STATIC_CONFIG["roads"]
+    {title: 'Roads',data: STATIC_CONFIG["roads"] }
   end
 
-  def self.places
-    STATIC_CONFIG["places"]
+  def self.beaches
+    {title: 'Beaches',data: STATIC_CONFIG["beaches"] }
   end
+
+  def self.history
+    {title: 'Historical Places',data: STATIC_CONFIG["historical"] }
+  end
+
+  def self.spiritual
+    {title: 'Spiritual Places',data: STATIC_CONFIG["spiritual"] }
+  end
+
+  def self.wildlife
+    {title: 'Wildlife & Bird Sanctuaries',data: STATIC_CONFIG["wildlife"] }
+  end
+
 end
