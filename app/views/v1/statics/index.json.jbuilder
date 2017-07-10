@@ -1,5 +1,5 @@
 if @fields.include? "home"
-  json.home Static.home
+  json.home_data Static.home
 end
 
 if @fields.include? "faq"
