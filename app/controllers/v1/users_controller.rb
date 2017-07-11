@@ -36,7 +36,7 @@ class V1::UsersController < ApiController
   private
 
   def set_user
-      @user = current_user.reload
+      @user =  User.includes([user_event_registrations: :event]).find(current_user.id)
   end
     
   def user_params
