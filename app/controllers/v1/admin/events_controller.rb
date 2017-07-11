@@ -9,7 +9,6 @@ class V1::Admin::EventsController < V1::AdminController
   end
 
   def show
-    
   end
 
   def create
