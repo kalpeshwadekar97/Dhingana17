@@ -9,8 +9,24 @@ class V1::StaticsController < ApiController
     render json: result, status: :ok
   end
 
-  def places
-    result = Static.places
+  def spiritual
+    result = Static.spiritual
+    render json: result, status: :ok
+  end
+
+
+  def wildlife
+    result = Static.wildlife
+    render json: result, status: :ok
+  end
+
+  def beaches
+    result = Static.beaches
+    render json: result, status: :ok
+  end
+
+  def history
+    result = Static.history
     render json: result, status: :ok
   end
 

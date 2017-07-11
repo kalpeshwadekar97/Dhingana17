@@ -3,8 +3,13 @@ Rails.application.routes.draw do
 
     resources :password, only: [:new]
     resources :users, only: [:create]
+
     get 'statics/roads' => 'statics#roads'
-    get 'statics/places' => 'statics#places'
+    get 'statics/wildlife' => 'statics#wildlife'
+    get 'statics/spiritual' => 'statics#spiritual'
+    get 'statics/history' => 'statics#history'
+    get 'statics/beaches' => 'statics#beaches'
+    
     resources :statics
     patch 'users' => 'users#update'
     get 'users' => 'users#show'
@@ -14,6 +19,7 @@ Rails.application.routes.draw do
     resources :statics
     get 'events/latest' => 'events#latest'
     resources :events, only: [:show, :index]
+    resources :user_event_registrations, except: [:new, :edit]
     namespace :admin do
 
       resources :authentication, only: [:create, :update]
@@ -21,6 +27,7 @@ Rails.application.routes.draw do
       resources :admin_users
       resources :events, except: [:new, :edit]
       resources :users, except: [:new, :edit]
+      resources :user_event_registrations
     end
   end
 end

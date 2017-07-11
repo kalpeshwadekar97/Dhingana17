@@ -74,9 +74,18 @@ class ApiController < ApplicationController
 
   def render_api_error(code, status_code, type = 'error', message = nil, extra_params = {})
     error = {}
+    temp = []
     error["code"] = code
     error["type"] = type
-    error["message"] = message || APP_CONFIG["error"][code]
+    if message.present?
+      if message.kind_of?(String)
+        temp << message
+      else
+        temp = message.map{|key,value| value.to_s}
+      end
+    end
+    temp.push(APP_CONFIG["error"][code]) if APP_CONFIG["error"][code].present? && message.blank?
+    error["message"] = temp.present? ? temp.first : 'Something went wrong, Please try again later'
     response = {'error' => error}.merge (extra_params || {})
     render json: response, status: status_code
   end
