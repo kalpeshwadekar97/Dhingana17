@@ -58,10 +58,10 @@ devel:
 
 staging:
   <<: *default
-  database: <%= ENV['DB_NAME'] %>
-  host: <%= ENV['DB_HOST'] %>
-  username: <%= ENV['DB_USERNAME'] %>
-  password: <%= ENV['DB_PASSWORD'] %>
+  database: <%= ENV['SDB_NAME'] %>
+  host: <%= ENV['DB_SHOST'] %>
+  username: <%= ENV['DB_SUSERNAME'] %>
+  password: <%= ENV['DB_SPASSWORD'] %>
 
 production:
   <<: *default
