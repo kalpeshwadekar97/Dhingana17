@@ -15,7 +15,7 @@ class V1::UserEventRegistrationsController < ApiController
   def create
     @user_event_registration = UserEventRegistration.new(user_event_registration_params)
     if @user_event_registration.save
-      render :show, status: :created
+      render :create, status: :created
     else
       render_api_error(22,400,'error',@user_event_registration.errors)
     end

@@ -81,7 +81,7 @@ class ApiController < ApplicationController
       if message.kind_of?(String)
         temp << message
       else
-        temp = message.map{|key,value| value.to_s}
+        temp = message.map{|key,value| value.to_s }
       end
     end
     temp.push(APP_CONFIG["error"][code]) if APP_CONFIG["error"][code].present? && message.blank?
