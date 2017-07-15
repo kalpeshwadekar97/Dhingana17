@@ -11,4 +11,9 @@ class UserEventRegistration < ActiveRecord::Base
   def set_status
     self.status = 0
   end
+
+  def message
+    event_title = self.event.title.upcase
+    message = "Successfully registered for #{event_title} event."
+  end
 end
