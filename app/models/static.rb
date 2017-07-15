@@ -38,4 +38,12 @@ class Static
     {title: 'Wildlife & Bird Sanctuaries',data: STATIC_CONFIG["wildlife"] }
   end
 
+  def self.terms_and_conditions
+    {title: 'Terms & Conditions',data: STATIC_CONFIG["terms and conditions"] }
+  end
+
+  def self.contact_us
+    {title: 'Contact Us',data: STATIC_CONFIG["contact_us"] }
+  end
+
 end
