@@ -194,4 +194,67 @@ wildlife: [{image_url: "http://lorempixel.com/400/400/",
             Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
           }]
-      
+"terms and conditions": [{
+  title: "Trademark",
+  description: ["The Trademark and logo of Dhingana 17 is the exclusive intellectual property of Mass Architect Private Limited. The trademarks and logos of Dhingana 17 and / or any other event associated with Mass Architect Private Limited are for the exclusive use of Mass Architect and their commercial partners and may not be replicated or used in any way whatsoever as part of travel or hospitality promotional packages and / or merchandise without the express written permission of Mass Architect Private Limited. For more details on this please email on mass.dhinganaa17@gmail.com"]
+},{
+  title: "DHINGANA 17 TICKETS 2017",
+  description: [
+    "We have been made aware that tickets to scheduled events have been offered for sale by unauthorized sellers. Customers are advised to purchase tickets from the official website (Link Website ONLY, in order to ensure that tickets purchased are valid.",
+    "iTickets are the official ticket agents for DHINGANA 17 FESTIVAL 2017",
+    "Tickets are valid for one specific Period – Either shows (Date & Day)",
+    "– PLEASE KEEP YOUR TICKET SAFE TO AVOID DUPLICATION",
+    "– EACH TICKET HAS A UNIQUE BARCODE PERMITTING ENTRY ONCE",
+    "– EACH TICKET WILL BE SCANNED ON ENTRY TO THE EVENT AND AGAIN ON ENTRY INTO THE ARENA"
+  ]
+},{
+  title: 'TICKET TYPES',
+  description: ["For group/bulk bookings of 10+ tickets please call (Authorized contact Number)or email info@(Email Id) Please note customers may not purchase more than 10 tickets from the online system without permission from the Event Organizers (Mass Architect Private Limited)
+  "]
+},{
+  title: 'THE FINE PRINT',
+  description: [
+    "Mass Architect reserves the right to make changes to the DHINGANA 17 event.",
+    "No refunds will be offered on tickets purchased – please ensure you are certain of your purchase before proceeding with payment. In the case of event cancellation, the official ticket agents (iTickets) shall deduct service fees before refunding a customer for the value of his/her order. Neither Mass Architect Private Limited and/or iTickets acting as the ticketing agents nor any other person shall have any liability to the customer to refund the purchase price of a ticket in circumstances where an Event is cancelled due to Force Majeure and/or where circumstances are beyond"
+    ]
+},{
+  title: 'RESPONSIBLE CONTROL',
+  description: ["Resale of DHINGANA 17 EVENT Festival tickets will be seen as fraudulent activity ",
+  " Tickets are not transferrable and are not for resale in any form whatsoever.",
+  " Mass Architect Private Limited reserves the right to cease selling any of the ticket types/packages   when this limit/capacity is reached.",
+  " Each item on your order has a unique barcode. Only the first scan of each barcode will allow entry into the event. Keep your printed ticket in a safe place.",
+  " The event will not be held responsible for tickets purchased from any other source or agent – do not buy tickets from unofficial sources.",
+  " Please note that tickets are not required to be printed in colour.",
+  " Duplication of tickets is strictly prohibited and duplicate tickets will most definitely not be allowed into the venue. Attempting duplication or the sale of tickets posing to be iTickets shall be dealt with as fraud and reported to the authorities.",
+  " Tickets may not be used to upsell any unofficial commercial hospitality or travel package as this will be a contravention of the official commercial partner program of Mass Architect Private Limited.",
+  " No ticket holder will be permitted to market a service or product, collect donations, do surveys or conduct any other form of business without the express permission of Mass Architect Private Limited.",
+  " Temporary bookings (pending orders) – you will receive your tickets as soon as we can confirm your payment for the order. Your order will be kept for up to 12 hours – you may be given seats different to the specific seats chosen but still within the same ticket price allocation.",
+  " Purchasing of these tickets is an agreement directly between you, the ticket buyer, and the owner of DHINGANA 17 EVENT Festival, Mass Architect Private Limited." 
+  ]
+},{
+  title: "ITEMS PROHIBITED AT DHINGANA 17 FESTIVALS",
+  description: [" Food or drink of any kind of Alcoholic beverages, or any drugs or stimulant.",
+  " Animals Unwieldy objects such as ladders, stools, folding chairs, cooler boxes, umbrellas, gazebos, Flags, flagpoles or banner poles of any kind.",
+  " Noise emitting devices including boom boxes and / or portable sound systems, musical instruments including vuvuzelas, megaphones.",
+  " Any promotional, commercial, political or religious objects including but not limited to banners, signs, symbols and leaflets as well as any kind of promotional or commercial objects and material.",
+  " Any item intended for on-site sale without prior approval will be confiscated.Weapons or tools of any kind or anything that could be used as a weapon, including pocket knives and Leatherman tools or similar.",
+  " Fireworks, flares, smoke powder, smoke bombs or other pyrotechnics.",
+  " Racist, xenophobic, extreme right-wing, national socialist, sexist or political propaganda material, Gas, spray cans, corrosives or flammable substances, paint, dyes or receptacles containing substances, which are harmful to health or are highly flammable.",
+  " Large quantities of paper and / or rolls of paper, Laser pointers.",
+  " Other objects which could compromise public safety and /or harm the reputation of DINGHANA 17 EVENT FESTIVAL."
+  ]
+}]
+
+"contact_us": [{
+  corporate_address: [
+  'Bewakoof brands pvt. ltd',
+  'galaria mal',
+  '2nd flr,b wing',
+  'fdgfdsafsadf',
+  'dfsafsdfdsfsdaf',
+  'sfsafsdfds']
+},{
+  email: ["asasdasd@adasd.com","asdasd@asdas.com"]
+},{
+  mobile: ["9876543212","9878766545","9878656543"]
+}]

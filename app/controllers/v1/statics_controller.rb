@@ -30,6 +30,16 @@ class V1::StaticsController < ApiController
     render json: result, status: :ok
   end
 
+  def terms_and_conditions
+    result = Static.terms_and_conditions
+    render json: result, status: :ok
+  end
+
+  def contact_us
+    result = Static.contact_us
+    render json: result, status: :ok
+  end
+
   def set_fields
     all_fields = params["fields"].present? ? params["fields"].split(',').collect(&:strip) : []
     @fields = all_fields
