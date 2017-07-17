@@ -46,4 +46,12 @@ class Static
     {title: 'Contact Us',data: STATIC_CONFIG["contact_us"] }
   end
 
+  def self.payment_numbers
+    { data: STATIC_CONFIG["payment_mobile_numbers"] }
+  end
+
+  def self.community
+    {communityData: STATIC_CONFIG["community"] }
+  end
+
 end
