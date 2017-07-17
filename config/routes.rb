@@ -11,6 +11,8 @@ Rails.application.routes.draw do
     get 'statics/beaches' => 'statics#beaches'
     get 'statics/terms_and_conditions' => 'statics#terms_and_conditions'
     get 'statics/contact_us' => 'statics#contact_us'
+    get 'statics/payment_numbers' => 'statics#payment_numbers'
+    get 'statics/community' => 'statics#community'
     
     resources :statics
     patch 'users' => 'users#update'

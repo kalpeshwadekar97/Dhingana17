@@ -40,6 +40,16 @@ class V1::StaticsController < ApiController
     render json: result, status: :ok
   end
 
+  def payment_numbers
+    result = Static.payment_numbers
+    render json: result, status: :ok
+  end
+
+  def community
+    result = Static.community
+    render json: result, status: :ok
+  end
+
   def set_fields
     all_fields = params["fields"].present? ? params["fields"].split(',').collect(&:strip) : []
     @fields = all_fields
