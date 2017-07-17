@@ -31,7 +31,7 @@ module RidersApp
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
     # use to import old database data to rails database
-    # config.middleware.use Rack::MethodOverride
+    config.middleware.use Rack::MethodOverride
     # config.paperclip_defaults = {
     #   :storage => :s3,
     #   :s3_protocol => ENV['AWS_PROTOCOL'],
