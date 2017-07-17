@@ -245,19 +245,11 @@ wildlife: [{image_url: "http://lorempixel.com/400/400/",
   ]
 }]
 
-"contact_us": [{
-  corporate_address: [
-  'Bewakoof brands pvt. ltd',
-  'galaria mal',
-  '2nd flr,b wing',
-  'fdgfdsafsadf',
-  'dfsafsdfdsfsdaf',
-  'sfsafsdfds']
-},{
-  email: ["asasdasd@adasd.com","asdasd@asdas.com"]
-},{
-  mobile: ["9876543212","9878766545","9878656543"]
-}]
+"contact_us": {
+  corporate_address: ['Bewakoof brands pvt. ltd', 'galaria mal', '2nd flr,b wing', 'fdgfdsafsadf', 'dfsafsdfdsfsdaf', 'sfsafsdfds'],
+  email: ["asasdasd@adasd.com", "asdasd@asdas.com"],
+  mobile: ["9876543212", "9878766545", "9878656543"]
+}
 
 "payment_mobile_numbers": [9878765654,9876543231,9898765434,9789876565]
 
