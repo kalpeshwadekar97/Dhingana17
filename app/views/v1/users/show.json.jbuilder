@@ -9,6 +9,8 @@ if @user.user_event_registrations.present?
         end
     end
   end
+else
+  json.no_registered_event_message @user.no_event_message
 end
 
 

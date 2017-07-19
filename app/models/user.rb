@@ -90,4 +90,8 @@ class User < ActiveRecord::Base
     self.email = self.email.strip unless self.email.nil?
   end  
 
+  def no_event_message
+    return "You have not registered for any event."
+  end
+
 end
