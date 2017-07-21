@@ -75,47 +75,44 @@ faq: [
   "answer": "yes, (mob number)"}]
 
 roads: [{id: 1,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing1",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/1.jpg"
       },
       { id: 2,
-        url: "http://lorempixel.com/400/400/",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/2.jpg"
       },
       { id: 3,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing3"
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/3.jpg"
       },
       { id: 4,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing4",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/4.jpg",
+      },
+      { id: 5,
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/5.jpg",
+      },
+      { id: 6,
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/6.jpg",
+      },
+      { id: 7,
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/7.jpg",
       }]
 
-beaches: [{image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+beaches: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/VARSOLI.jpg",
+            title: "VARSOLI"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/TEENVIRA_DAM.jpg",
+            title: "TEENVIRA_DAM"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/REVDANDA.jpg",
+            title: "REVDANDA"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/NAGAO.jpg",
+            title: "NAGAO"
+          },
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/DIVEAGAR.jpg",
+            title: "DIVEAGAR"
+          },
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/ALIBAG.jpg",
+            title: "ALIBAUG"
           }]
 
 spiritual: [{image_url: "http://lorempixel.com/400/400/",
@@ -143,54 +140,20 @@ spiritual: [{image_url: "http://lorempixel.com/400/400/",
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
           }]
 
-historical: [{image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+historical: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F1-KARNALA.jpg",
+            title: "KARNALA"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F2-REVDANDA.jpg",
+            title: "REVDANDA"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
-          },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F4-MURUD-JANJIRA.jpg",
+            title: "MURUD-JANJIRA"
           }]
       
-wildlife: [{image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+wildlife: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s1-karnala.jpg",
+            title: "KARNALA"
           },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
-          },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
-          },
-          {image_url: "http://lorempixel.com/400/400/",
-            title: "Testing 1",
-            description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
-            Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
-            Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
+          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s3-native_biodiversiity_park.jpg"
           }]
 "terms and conditions": [{
   title: "Trademark",
@@ -250,7 +213,7 @@ wildlife: [{image_url: "http://lorempixel.com/400/400/",
 }
 
 community: [{
-        url: "http://lorempixel.com/400/400/",
+        url: "https://s3.ap-south-1.amazonaws.com/dhingana/Community/community_tranquil_beach_resort.jpg",
         title: "Tranquil – A beach resort",
         description: "In the tiring task of housing ourselves. in our restricted bubbles. we somewhere have left ourselves lost in the hustle and bustle of the cities.
                       So it's the time to give yourself, the needed break. where you can allow yourself to visit the wilderness which your heart calls for.
