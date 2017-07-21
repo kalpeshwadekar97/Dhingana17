@@ -3,10 +3,7 @@ class Event < ActiveRecord::Base
 
   def images
     data = [
-      { id: 1, url:'http://lorempixel.com/640/480/'},
-      { id: 2, url:'http://lorempixel.com/640/480/'},
-      { id: 3, url:'http://lorempixel.com/640/480/'},
-      { id: 4, url:'http://lorempixel.com/640/480/'}
+      { id: 1, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Events/1.jpg'}
     ]
   end
 
