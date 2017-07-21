@@ -58,7 +58,7 @@ class Static
   end
 
   def self.payment_numbers
-    { data: STATIC_CONFIG["payment_mobile_numbers"] }
+    { data: STATIC_CONFIG["payment_details"] }
   end
 
   def self.community

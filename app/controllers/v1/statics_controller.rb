@@ -40,7 +40,7 @@ class V1::StaticsController < ApiController
     render json: result, status: :ok
   end
 
-  def payment_numbers
+  def payment_information
     result = Static.payment_numbers
     render json: result, status: :ok
   end

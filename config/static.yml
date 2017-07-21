@@ -244,30 +244,20 @@ wildlife: [{image_url: "http://lorempixel.com/400/400/",
 }]
 
 "contact_us": {
-  corporate_address: ['Bewakoof brands pvt. ltd', 'galaria mal', '2nd flr,b wing', 'fdgfdsafsadf', 'dfsafsdfdsfsdaf', 'sfsafsdfds'],
-  email: ["asasdasd@adasd.com", "asdasd@asdas.com"],
-  mobile: ["9876543212", "9878766545", "9878656543"]
+  corporate_address: ['17, Maruti Pooja Corner,', 'Sec 17,', 'New Panvel 410206'],
+  email: ["mass.architects4@gmail.com"],
+  mobile: ["+91 8446659969", "+91 9167499779", "+91 9167111684","+91 9029983067"]
 }
 
-"payment_mobile_numbers": [9878765654,9876543231,9898765434,9789876565]
+community: [{
+        url: "http://lorempixel.com/400/400/",
+        title: "Tranquil – A beach resort",
+        description: "In the tiring task of housing ourselves. in our restricted bubbles. we somewhere have left ourselves lost in the hustle and bustle of the cities.
+                      So it's the time to give yourself, the needed break. where you can allow yourself to visit the wilderness which your heart calls for.
+                      No doubt this place will enable you to glimpse the liveliness, richness of konkan, thereby promising you for delivering experiences untold!.
+                      With an aim of serving our visitors, we brings you Tranquil – A beach resort.
+                      Tranquil Resort offers you the Experiential Tourism where you as visitor can mingle with natives, participate in their daily activities, taste the local food, acquire new skills and experience of their culture, traditions and customs, at a close.
+                      Dawn with the cackle alters chirping of birds in the morning sets the day up. Sound of sea waves are in complete harmony with ambience of resort. Sunset fulfils the aspiration of the tourist. It is an experience to esteem our valuable life."
+}]
 
-community: [{id: 1,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing1",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
-      },
-      { id: 2,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing2",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
-      },
-      { id: 3,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing3",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
-      },
-      { id: 4,
-        url: "http://lorempixel.com/400/400/",
-        title: "Testing4",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
-      }]
+"payment_details": ["Pay via Paytm or NEFT to bank details", "Paytm Number : 7303798163","OR", "Bank Account number: 12345678901234","ifsc code: KAL01234"]
