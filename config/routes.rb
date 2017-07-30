@@ -5,9 +5,9 @@ Rails.application.routes.draw do
     resources :users, only: [:create]
 
     get 'statics/roads' => 'statics#roads'
-    get 'statics/wildlife' => 'statics#wildlife'
+    get 'statics/wildlife' => 'statics#scanturies'
     get 'statics/spiritual' => 'statics#spiritual'
-    get 'statics/history' => 'statics#history'
+    get 'statics/history' => 'statics#historical'
     get 'statics/beaches' => 'statics#beaches'
     get 'statics/terms_and_conditions' => 'statics#terms_and_conditions'
     get 'statics/contact_us' => 'statics#contact_us'
