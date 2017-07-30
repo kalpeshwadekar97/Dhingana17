@@ -8,9 +8,9 @@ class Static
       "home":[
           { id: 1, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_beaches.jpg', title:'beaches'},
           { id: 2, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_roads.jpg', title:'roads'},
-          { id: 3, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_spirituals.jpg', title:'spiritual places'},
+          { id: 3, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_spirituals.jpg', title:'spiritual'},
           { id: 4, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_sancturies.jpg', title:'scanturies'},
-          { id: 5, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_forts.jpg', title:'history'}
+          { id: 5, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_forts.jpg', title:'historical'}
         ]
       }
   end

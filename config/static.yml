@@ -150,7 +150,7 @@ historical: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F1
             title: "MURUD-JANJIRA"
           }]
       
-wildlife: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s1-karnala.jpg",
+scanturies: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s1-karnala.jpg",
             title: "KARNALA"
           },
           {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s3-native_biodiversiity_park.jpg"
