@@ -3,7 +3,7 @@ class Static
     data = {
       "home_banner":{
           id: 1,
-          url: "https://s3.ap-south-1.amazonaws.com/dhingana/home_banner.jpg"
+          url: "https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_banner.jpg"
         },
       "home":[
           { id: 1, url:'https://s3.ap-south-1.amazonaws.com/dhingana/Home/home_boxes_beaches.jpg', title:'beaches'},
