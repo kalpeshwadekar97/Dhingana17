@@ -96,64 +96,64 @@ roads: [{id: 1,
         url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Roads/7.jpg",
       }]
 
-beaches: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/VARSOLI.jpg",
+beaches: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/VARSOLI.jpg",
             title: "VARSOLI"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/TEENVIRA_DAM.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/TEENVIRA_DAM.jpg",
             title: "TEENVIRA_DAM"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/REVDANDA.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/REVDANDA.jpg",
             title: "REVDANDA"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/NAGAO.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/NAGAO.jpg",
             title: "NAGAO"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/DIVEAGAR.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/DIVEAGAR.jpg",
             title: "DIVEAGAR"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/ALIBAG.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Beaches/ALIBAG.jpg",
             title: "ALIBAUG"
           }]
 
-spiritual: [{image_url: "http://lorempixel.com/400/400/",
+spiritual: [{url: "http://lorempixel.com/400/400/",
             title: "Testing 1",
             description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
             Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
             },
-          {image_url: "http://lorempixel.com/400/400/",
+          {url: "http://lorempixel.com/400/400/",
             title: "Testing 1",
             description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
             Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
             },
-          {image_url: "http://lorempixel.com/400/400/",
+          {url: "http://lorempixel.com/400/400/",
             title: "Testing 1",
             description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
             Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
             },
-          {image_url: "http://lorempixel.com/400/400/",
+          {url: "http://lorempixel.com/400/400/",
             title: "Testing 1",
             description: "Sacred travel, or metaphysical tourism, spiritualized travel, is a growing niche of the travel market. It attracts New Age believers and involves tours and travel to spiritual hotspots on the Earth.
             Destinations are often ancient sites where there is a mystery concerning their origin or purpose, such as Shitaladevi Temple, choul. Birla Mandir, Visrgi Mosque, Adhal. Siddhivinayak Temple. 
             Travelling through these routes, travelers see the journey as more than just tourism and take the trips in order to heal themselves . Part of this may involve rituals involving (supposedly) leaving their bodies, possession by spirits , and recovery of past life memories."
           }]
 
-historical: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F1-KARNALA.jpg",
+historical: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F1-KARNALA.jpg",
             title: "KARNALA"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F2-REVDANDA.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F2-REVDANDA.jpg",
             title: "REVDANDA"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F4-MURUD-JANJIRA.jpg",
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Forts/F4-MURUD-JANJIRA.jpg",
             title: "MURUD-JANJIRA"
           }]
       
-wildlife: [{image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s1-karnala.jpg",
+wildlife: [{url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s1-karnala.jpg",
             title: "KARNALA"
           },
-          {image_url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s3-native_biodiversiity_park.jpg"
+          {url: "https://s3.ap-south-1.amazonaws.com/dhingana/Places/Sancturies/s3-native_biodiversiity_park.jpg"
           }]
 "terms and conditions": [{
   title: "Trademark",
