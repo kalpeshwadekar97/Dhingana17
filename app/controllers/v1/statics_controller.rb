@@ -16,7 +16,7 @@ class V1::StaticsController < ApiController
 
 
   def scanturies
-    result = Static.wildlife
+    result = Static.scanturies
     render json: result, status: :ok
   end
 
@@ -26,7 +26,7 @@ class V1::StaticsController < ApiController
   end
 
   def historical
-    result = Static.history
+    result = Static.historical
     render json: result, status: :ok
   end
 
