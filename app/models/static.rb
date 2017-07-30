@@ -44,7 +44,7 @@ class Static
 
   def self.scanturies
     {title: 'Wildlife & Bird Sanctuaries', description: 'Sanctuaries, are naturally occurring Heaven on Earth, such as an island, that provides protection for species from hunting, predation or competition.These are protected area, a geographic territory within which wildlife is protected. The Indian Forest Department and Wildlife Service defines a Wildlife and Bird Sanctuaries. 
-            On these tour and trips, here are some heavenly touched Sanctuaries which can amaze you with beauty, Karnala Bird Sanctuary, Phansad Wildlife Sanctuary. There are some biodiversity natural gardens and fish farm in the atmospheric surrounding which can flourish you frame of mind into refreshing deeds. ', data: STATIC_CONFIG["wildlife"] }
+            On these tour and trips, here are some heavenly touched Sanctuaries which can amaze you with beauty, Karnala Bird Sanctuary, Phansad Wildlife Sanctuary. There are some biodiversity natural gardens and fish farm in the atmospheric surrounding which can flourish you frame of mind into refreshing deeds. ', data: STATIC_CONFIG["scanturies"] }
   end
 
   def self.terms_and_conditions
